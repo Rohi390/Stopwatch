@@ -1,5 +1,3 @@
-# StopWatch
-Creating Stop-Watch using HTML, CSS &amp; Vanilla JAVASCRIPT.
 
 # StopWatch
 A simple Stop-Watch using HTML, CSS &amp; Vanilla JAVASCRIPT.

@@ -21,6 +21,8 @@ On click of reset stop the watch (if already started) and set timer as 0
 
 # Screenshot
 
+![Screenshot 2023-01-30 153640](https://user-images.githubusercontent.com/89455524/217811069-14810922-93bc-46a9-add4-7abf9d92ff71.jpg)
+
 
 # Git Clone
 To use this repository in your local system-

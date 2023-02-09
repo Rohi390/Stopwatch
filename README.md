@@ -19,6 +19,9 @@ Stop timer once clicked on the stop button
 
 On click of reset stop the watch (if already started) and set timer as 0
 
+# Screenshot
+
+
 # Git Clone
 To use this repository in your local system-
 Git Clone : https://github.com/Rohi390/Stopwatch

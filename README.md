@@ -21,7 +21,7 @@ On click of reset stop the watch (if already started) and set timer as 0
 
 # Git Clone
 To use this repository in your local system-
-Git Clone : 
+Git Clone : https://github.com/Rohi390/Stopwatch
 
 # PRODUCT DEMO / Live Preview : 
 

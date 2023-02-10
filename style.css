@@ -28,7 +28,8 @@ h3 {
 /* time font size */
 #seconds,
 #tens {
-  font-size: 2em;
+  font-size: 2.2em;
+    color: whitesmoke;
 }
 
 /* buttons css */
